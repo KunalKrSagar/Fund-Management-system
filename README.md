@@ -1,4 +1,4 @@
-#Fund Management System
+# Fund-Management-system
 CS258 Course project - done under the guidance of Dr.Puneet Gupta and Dr.Surya Prakash
 
 Members:
